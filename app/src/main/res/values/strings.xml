@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MVP Example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="log_in">Log In</string>
+    <string name="title_activity_main">MVP Example</string>
+    <string name="username_error">Username cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+    <string name="ok_button_text">Ok</string>
+    <string name="sign_in">Sign Up</string>
+    <string name="title_activity_sign_in">Sign Up View</string>
+    <string name="retype_password">re-type password</string>
+    <string name="create_user">Create User</string>
+    <string name="both_passwords_not_same">Password and re-type password not same</string>
+    <string name="retyprepassword_error">New password cannot be empty</string>
+    <string name="user_does_not_exist">User does not exist. Please create user first!</string>
+    <string name="incorrect_password">Incorrect password!. Try again.!</string>
+    <string name="user_created_successfully">User created successfully.</string>
+    <string name="user_alredy_exists">User already exists. Use other user id.</string>
+</resources>
